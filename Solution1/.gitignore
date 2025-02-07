@@ -1,0 +1,30 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Build directories
+build/
+dist/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE configurations
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Git-specific files
+.git/
